@@ -5,13 +5,17 @@ Chip technology helps simplify life experience
 Web3 no more difficult to access
 
 #### What is the AirChip3?
-AirChip3 targeting to make Web3 ubiquitous like Air in our life, through Chip technology. AirChip3 enables traditional industry to embrace and enter Web3 world, therefore help traditional industry to revolutionize previous landscape and create bigger market value for human society.
+In East Asia countries social scenario, people often send out a red envelope with local Fiat cash inside to present greeting or good wishes to others, named AngPao.
+AirChip3 is the AngPao for crypto, a product consisted of physical part and APP part to help pass over greeting and value between people.
+AirChip3 can be in any suitable Gift physical formality such as Card, Ring, Coin etc, we are happy to supply AirChip3 modules to Gift manufacturers and help build all kinds of Gift with Crypto AngPao features..
 
-#### Why has the AirChip3 been created?
-AirChip3 is the first Web3 enabling solution. Currently all Web3 narrative  and activity are still under the negative shadow of cheating and con job dirty loop. But actually, Web3 as a more powerful and robust internet of value, is already making impact to human society, although still small and slow. The biggest obstacle is the Web3 decentralized mechanism create a user experience totally different to Web2 internet. In short – Web3 still not into mainstream mass adoption in today’s world. So we created AirChip3 to lower down the threshold of Entering Web3 and accelerate formation of the internet of value.
+#### What is AirChip3 targeting?
+AirChip3 targets ordinary user segments who are not traders of Crypto Assets. We use crypto to help enhance the Gifting experience in real life. AirChip3 physical part formality is diversified and flexible but all embeded security chip inside. All Gift and Artwork with AirChip3 embeded could become an impressive greeting messenger for the sender.
 
-#### Is AirChip3 a traditional organization like company or a typical Web3 community like Dao?
-We are honored to clarify that AirChip3 is a traditional organization like company,because we are a 2B technology solution provider, not a typical Web3 project or operator. So this means we need reasonable profit to develop and keep our product & service quality always in good status and sustainable for future. However, we also have good faith in the Web3 and decentralization narrative future development, so we don’t exclude any possibility to restructure organization into a pure community governance organization in Dao formality.
+#### Is the AirChip3 a cold wallet and secure enough?
+We don’t call AirChip3 as cold wallet, it’s Crypto AngPao.The most important function of cold wallet is to securely store owners’ crypto long lasting.
+While AirChip3 is on the contrary, just used occasionally to deliver greeting and value, convenience most important.
+AirChip3 is secure enough with certified CC EAL 5+ level chip, the private key is generated and kept only in the chip which is isolated offline, even the manufacturers & owners can’t get it out.
 
 #### Find Us
-* Website: https://portall.vip
+* Website: https://airchip3.com
